@@ -1,0 +1,4 @@
+,MODEL,Valid_Rows,TP,TN,FP,FN,Accuracy,Precision,Recall,F1_Score,FPR (False Positive Rate),FNR (False Negative Rate)
+0,Original_Model,989,0,989,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+1,Qwen-2B,989,0,989,0,0,1.0,0.0,0.0,0.0,0.0,0.0
+2,Smol-2.2B,989,0,989,0,0,1.0,0.0,0.0,0.0,0.0,0.0
